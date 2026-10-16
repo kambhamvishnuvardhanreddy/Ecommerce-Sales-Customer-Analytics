@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price
+P001,Laptop,Electronics,Computers,55000
+P002,Desktop PC,Electronics,Computers,48000
+P003,Smartphone,Electronics,Mobile,25000
+P004,Tablet,Electronics,Mobile,18000
+P005,Monitor,Electronics,Accessories,14000
+P006,Headphones,Electronics,Accessories,2500
+P007,Keyboard,Electronics,Accessories,1800
+P008,Mouse,Electronics,Accessories,900
+P009,Office Chair,Furniture,Chairs,8500
+P010,Office Desk,Furniture,Tables,12000
+P011,Bookshelf,Furniture,Storage,7000
+P012,Backpack,Accessories,Bags,1800
+P013,Travel Bag,Accessories,Bags,3200
+P014,Notebook Set,Stationery,Notebooks,600
+P015,Printer,Electronics,Office,11000
+P016,Smartwatch,Electronics,Wearables,6500
+P017,Water Bottle,Accessories,Lifestyle,900
+P018,Power Bank,Electronics,Accessories,2200
+P019,USB Drive,Electronics,Storage,1000
+P020,Webcam,Electronics,Accessories,3500
